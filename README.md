@@ -14,7 +14,7 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)   
-
+   
 
 ## Projetos:
 
